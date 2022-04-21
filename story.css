@@ -1,0 +1,32 @@
+h1 {
+  width: 200px;
+  margin: auto;
+}
+
+.paragraph {
+  width: 80vw;
+  margin: 30px auto;
+}
+
+#buttons1 {
+  width: 80vw;
+  margin: auto;
+}
+
+.buttons_btn {
+  padding: 5px 10px;
+  border-radius: 10px;
+  border-color: black;
+  margin: 10px;
+  background-color: #89cff0;
+  color: rgb(71, 70, 70);
+}
+
+.buttons_btn:hover {
+  background-color: #e7a985;
+  cursor: pointer;
+}
+
+.display_none {
+    display: none;
+}
