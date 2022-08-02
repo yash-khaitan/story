@@ -1,8 +1,8 @@
 # story
-A new way of presenting story on internet. 
+A new way of presenting a story on the internet.
 
-All this while, reader were just consumer. We have to read whatever the author had decided for the characters in the story.
+All this while, readers were just consumers. We had to read whatever the author had decided for the characters in the story.
 
-Presenting you a new way of storytelling. Now the readers will decide the the course of actions of the characters.
+Presenting you a new way of storytelling. Now the readers will choose the course of action of the characters.
 
-Every now then, reader will choose the next step of the character and according to that next step the story will move forward.
+The story will move according to the reader's choice.
